@@ -1,0 +1,22 @@
+You can create your own website with HTML Lessons! But first let's get to know HTML; HTML is a web standard 
+developed by Tim Berners-Lee, who worked at CERN, and called HTML in the 90s. Berners-Lee is also the 
+founder of the WorldWideWeb Consortium, or W3C as we all know it. 
+
+HTML dosyaları metin dosyalarıdır ve markup etiketleri adı verilen işaretli etiketlerden oluşur. Markup 
+etiketleri sitenizin web tarayıcısında (Google Chrome, Firefox) nasıl görüntüleneceğini belirtir. HTML 
+dosyaları sunucu sabit disklerine .html uzantısı ile kaydedilir. HTML dosyaları birçok program ile 
+oluşturulabildiği gibi Yeni Metin Belgesi (Not Defteri) ile de oluşturulabilir.
+
+
+
+
+Key Concepts
+
+
+WWW : World Wide Web
+W3C: World Wide Web 
+HTML: Hyper Text Markup Language.
+Domain: We need our sites to be open on the Web
+
+
+
