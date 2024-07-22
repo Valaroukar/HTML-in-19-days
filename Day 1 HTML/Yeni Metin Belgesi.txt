@@ -2,16 +2,12 @@ You can create your own website with HTML Lessons! But first let's get to know H
 developed by Tim Berners-Lee, who worked at CERN, and called HTML in the 90s. Berners-Lee is also the 
 founder of the WorldWideWeb Consortium, or W3C as we all know it. 
 
-HTML dosyaları metin dosyalarıdır ve markup etiketleri adı verilen işaretli etiketlerden oluşur. Markup 
-etiketleri sitenizin web tarayıcısında (Google Chrome, Firefox) nasıl görüntüleneceğini belirtir. HTML 
-dosyaları sunucu sabit disklerine .html uzantısı ile kaydedilir. HTML dosyaları birçok program ile 
-oluşturulabildiği gibi Yeni Metin Belgesi (Not Defteri) ile de oluşturulabilir.
-
-
-
+HTML files are text files and consist of marked tags called markup tags. Markup tags 
+tags specify how your site is displayed in the web browser (Google Chrome, Firefox). HTML 
+files are saved on server hard disks with the .html extension. HTML files can be saved with many programs 
+can also be created with New Text Document (Notepad).
 
 Key Concepts
-
 
 WWW : World Wide Web
 W3C: World Wide Web 
